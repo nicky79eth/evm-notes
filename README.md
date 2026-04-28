@@ -14,7 +14,7 @@ The goal of this repo is to document:
 - Solidity internals.
 - EVM storage mechanics.
 - Gas optimization strategies.
-- Smart contract vulnerabilities
+- Smart contract vulnerabilities.
 - Attack simulations & mitigation techniques
 
 Content focuses on implementation details, not high-level explanations.
