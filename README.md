@@ -12,7 +12,7 @@ It is a technical reference built from research, experimentation, and production
 The goal of this repo is to document:
 
 - Solidity internals.
-- EVM storage mechanics
+- EVM storage mechanics.
 - Gas optimization strategies
 - Smart contract vulnerabilities
 - Attack simulations & mitigation techniques
